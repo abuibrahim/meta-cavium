@@ -1,0 +1,5 @@
+define KMACHINE octeon
+define KARCH mips
+
+include ktypes/tiny/tiny.scc
+include octeon.scc
